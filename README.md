@@ -7,7 +7,7 @@ Using this notebook we can learn simple PANDAS for Data science and Machine lear
     
 - Tools and Library
     - Python
-    - Jupyter notebook\
+    - Jupyter notebook
     - Miniconda
     - Conda
     - Pandas
